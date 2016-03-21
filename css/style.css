@@ -1,0 +1,19 @@
+.skill {
+  
+}
+
+.description {
+  font-style: italic; 
+  font-size: .75em;
+  color: #333333;
+}
+
+.title {
+  font-weight: bold; 
+  color: red;
+  font-size: .9em;
+}
+
+.section {
+  clear: both;
+}
