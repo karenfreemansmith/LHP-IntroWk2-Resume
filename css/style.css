@@ -1,19 +1,51 @@
-.skill {
-  
+.white-theme {
+  background-color: #fcffff;
+  color: #330000;
+}
+.classic-theme {
+  background-color: #f5f5dc;
+  color: #003300;
+}
+.pastel-theme {
+  background-color: #fafad2;
+  color: #FE4B86;
+}
+.neon-theme {
+  background-color: #40e0d0;
+  color: #800080;
+}
+.black-theme {
+  background-color: #111111;
+  color: #aaaaaa;
 }
 
+
 .description {
-  font-style: italic; 
-  font-size: .75em;
-  color: #333333;
+  font-style: italic;
+  font-size: .9em;
 }
 
 .title {
-  font-weight: bold; 
-  color: red;
-  font-size: .9em;
+  font-weight: bold;
 }
 
 .section {
   clear: both;
+}
+
+a {
+  color: #666666;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h3 {
+  border-bottom-style: solid;
+  border-width: 1px;
+}
+
+.contact {
+  text-align: center;
+  border: solid 1px;
+  margin: 10px 0px 30px 0px;
 }
