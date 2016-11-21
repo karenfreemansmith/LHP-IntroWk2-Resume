@@ -11,25 +11,22 @@ __*JavaScript enhanced resume*__
 This is my resume - plus a project to demonstrate how page elements can be changed in
 jQuery. Page background and color change by clicking buttons on the side.
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Technologies Used
+HTML, CSS
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Known Issues
-* Missing skills
-* Missing work experience
-* Could add more "themes"
-* Can the same idea be executed with more CSS:
-  * to add background images to specific elements?
-  * to change fonts?
-  * even change the layout?
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
+## Known Issues
+* None
 
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
