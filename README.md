@@ -13,7 +13,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 * View resume in a variety of styles.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-Calculator)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-Resume)
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
