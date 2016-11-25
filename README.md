@@ -1,23 +1,21 @@
-# :card_index: [My Resume](http://karenfreemansmith.github.io/resume) :open_file_folder:
-![project screenshot](/img/screenshot.jpg)
+# Resume Page
+Version 0.0.2: March 29, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 2: March 29, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*JavaScript enhanced resume*__
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: Added "themes" to resume page from week 1 to practice adding and removing CSS classes with jQuery.*
 
-This is my resume - plus a project to demonstrate how page elements can be changed in
-jQuery. Page background and color change by clicking buttons on the side.
-
-## Technologies Used
-HTML, CSS
+* View resume in a variety of styles.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-Calculator)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
